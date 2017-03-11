@@ -1,5 +1,8 @@
 _repo: Dorothy-and-the-Wizard-in-Oz_420
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baum, L. Frank (Lyman Frank)
@@ -30,6 +33,8 @@ description: "Dorothy and the Wizard in Oz is the fourth book set in the Land of
   \ adventures take place, but the land the characters are seeking as a refuge from\
   \ adventure.\nThe book was dedicated to Harriet Alvena Baum Neal, the author's eldest\
   \ sister.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/420#Dorothy-and-the-Wizard-in-Oz
 gutenberg_bookshelf:
 - Children's Literature
 - Fantasy
